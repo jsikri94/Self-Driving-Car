@@ -11,6 +11,7 @@ Computational Logic Project
 
   Following command will run the program:
 
+
   sasp -i selfdrivingcar.lp
   
   
